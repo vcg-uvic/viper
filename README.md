@@ -16,7 +16,7 @@ Except as noted below this project is released under the Apache License, Version
 
 ### Recommended configuration
 
-- >= NVIDIA GTX1080Ti  
+- NVIDIA GTX1080Ti or better 
 - Ubuntu 18.04
 - CUDA 10.x
 
