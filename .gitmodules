@@ -1,0 +1,15 @@
+[submodule "libs/eigen"]
+	path = libs/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "libs/igl"]
+	path = libs/igl
+	url = https://github.com/libigl/libigl.git
+[submodule "libs/opengp"]
+	path = libs/opengp
+	url = https://github.com/drebain/OpenGP.git
+[submodule "libs/rapidjson"]
+	path = libs/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
