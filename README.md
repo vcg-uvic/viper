@@ -10,7 +10,7 @@ We extend the formulation of position-based rods to include elastic volumetric d
 
 Except as noted below this project is released under the Apache License, Version 2. See the `LICENSE` file for the full text.
 
-**IMPORTATNT NOTICE: The assets `data/mesh.bin` and `data/texture.bin` are proprietary and are *NOT* released under an open-source license. You are *NOT* permitted to redistribute them or to use them for any purpose other than running this demo.**
+**IMPORTANT NOTICE: The assets `data/mesh.bin` and `data/texture.bin` are proprietary and are *NOT* released under an open-source license. You are *NOT* permitted to redistribute them or to use them for any purpose other than running this demo.**
 
 ## How to Build
 
