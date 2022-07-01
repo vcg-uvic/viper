@@ -48,6 +48,16 @@ make
 ./demo
 ```
 
+### Build & run with Docker
+If you do not want to set up an Ubuntu 18.04 environment to build, you may use the provided dockerfile to build and run in a container from a Linux host running X11.
+
+Start by installing `nvidia-docker` following the instructions [here](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html).
+
+You may then build and run the demo with
+```
+sudo ./build_run_docker.sh
+```
+
 ## How to cite this work
 ```
 @conference{angles2019viper,
