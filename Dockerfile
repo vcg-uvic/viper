@@ -1,4 +1,4 @@
-from nvidia/cuda:10.2-devel-ubuntu18.04
+from nvidia/cudagl:10.2-base-ubuntu18.04
 
 env NVIDIA_DRIVER_CAPABILITIES ${NVIDIA_DRIVER_CAPABILITIES},display
 
@@ -6,6 +6,7 @@ workdir /viper
 
 run apt-get update --yes
 run apt-get install --yes \
+    cuda-toolkit-10-2 \
     g++ \
     cmake \
     xorg-dev \
